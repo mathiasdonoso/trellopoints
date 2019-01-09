@@ -1,4 +1,4 @@
-# Gitnore
+# Trellopoints
 
 A simple webhook for story cards in trello
 
