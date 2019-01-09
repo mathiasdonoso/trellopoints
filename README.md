@@ -15,6 +15,14 @@ go get github.com/mathiasdonoso/trellopoints
 * TRELLO_KEY
 * TRELLO_TOKEN
 
+## Tests
+
+To run the tests
+
+```
+go test
+```
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
